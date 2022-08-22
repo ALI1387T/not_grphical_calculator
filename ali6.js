@@ -195,5 +195,6 @@ while (exit == 1) {
     if (exit == 0) {
         console.log("thank you for using this calculator")
         alert("thank you for using this calculator")
+        close()
     }
 }
